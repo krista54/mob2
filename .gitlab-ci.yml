@@ -6,7 +6,7 @@ build_job:
   only:
   - branches
   script:
-  - '& "C:\Tools\Nuget\nuget.exe" restore'
+  - '"C:\Tools\Nuget\nuget.exe" restore'
   - '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe" Mob2.sln'
   artifacts:
     paths:

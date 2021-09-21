@@ -1,0 +1,7 @@
+C:\Users\zubov\source\repos\Mob2\Mob2\bin\Debug\Mob2.exe.config
+C:\Users\zubov\source\repos\Mob2\Mob2\bin\Debug\Mob2.exe
+C:\Users\zubov\source\repos\Mob2\Mob2\bin\Debug\Mob2.pdb
+C:\Users\zubov\source\repos\Mob2\Mob2\obj\Debug\Mob2.csprojAssemblyReference.cache
+C:\Users\zubov\source\repos\Mob2\Mob2\obj\Debug\Mob2.csproj.CoreCompileInputs.cache
+C:\Users\zubov\source\repos\Mob2\Mob2\obj\Debug\Mob2.exe
+C:\Users\zubov\source\repos\Mob2\Mob2\obj\Debug\Mob2.pdb
